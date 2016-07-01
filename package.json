@@ -1,0 +1,12 @@
+{
+  "name": "Bibliothèque Intégrale",
+  "private": true,
+  "scripts": {
+    "start": "meteor run --settings settings.json"
+  },
+  "dependencies": {
+    "marc4js": "0.0.8",
+    "marcjs": "^0.1.12",
+    "meteor-node-stubs": "^0.2.3"
+  }
+}

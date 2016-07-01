@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "abbrev": {
+      "version": "1.0.9",
+      "resolved": "https://registry.npmjs.org/abbrev/-/abbrev-1.0.9.tgz",
+      "from": "abbrev@>=1.0.0 <2.0.0"
+    },
+    "async": {
+      "version": "0.2.10",
+      "resolved": "https://registry.npmjs.org/async/-/async-0.2.10.tgz",
+      "from": "async@>=0.2.6 <0.3.0"
+    },
+    "bindings": {
+      "version": "1.2.1",
+      "resolved": "https://registry.npmjs.org/bindings/-/bindings-1.2.1.tgz",
+      "from": "bindings@1.2.1"
+    },
+    "libxmljs": {
+      "version": "0.15.0",
+      "resolved": "https://registry.npmjs.org/libxmljs/-/libxmljs-0.15.0.tgz",
+      "from": "libxmljs@>=0.15.0 <0.16.0"
+    },
+    "marcjs": {
+      "version": "0.1.12",
+      "resolved": "https://github.com/fredericd/marcjs/tarball/545ab0fc580c00293c5304aa35ed7148d3d8045f",
+      "from": "marcjs@https://github.com/fredericd/marcjs/tarball/545ab0fc580c00293c5304aa35ed7148d3d8045f"
+    },
+    "nan": {
+      "version": "2.0.7",
+      "resolved": "https://registry.npmjs.org/nan/-/nan-2.0.7.tgz",
+      "from": "nan@2.0.7"
+    },
+    "nopt": {
+      "version": "2.1.2",
+      "resolved": "https://registry.npmjs.org/nopt/-/nopt-2.1.2.tgz",
+      "from": "nopt@>=2.1.0 <2.2.0"
+    }
+  }
+}

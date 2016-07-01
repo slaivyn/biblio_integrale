@@ -1,0 +1,1 @@
+marcjs = Npm.require('marcjs');

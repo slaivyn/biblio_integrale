@@ -1,0 +1,27 @@
+template(name="home")
+  if currentUser
+    | Bonjour
+    br
+    if isWeb
+      input(type="text")
+      button
+    else
+      if scanned
+        = scanned.text
+        br
+        = scanned.format
+        br
+        = scanned.cancelled
+      br
+      if error
+        | error:
+        = error
+      br
+    button.btn.scan(type="button") scan
+    br
+    with bookData
+      = author
+      br
+      = title
+  else
+    | Connecte-toi d'abord
