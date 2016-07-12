@@ -1,5 +1,6 @@
 Package.describe({
-  summary: "marcjs for Meteor"
+  summary: "marcjs for Meteor",
+  version: "0.0.2"
 });
 
 Npm.depends({
